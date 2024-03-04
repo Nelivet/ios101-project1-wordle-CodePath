@@ -16,7 +16,7 @@ class SettingsManager {
   
   var settingsDictionary: [String: Any] {
     return [kNumGuessesKey: numGuesses,
-            kNumLettersKey: numLetters,
+            kNumLettersKey : numLetters,
             kWordThemeKey: wordTheme.rawValue,
             kIsAlienWordleKey: isAlienWordle]
   }
