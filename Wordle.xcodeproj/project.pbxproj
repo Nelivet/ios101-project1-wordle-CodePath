@@ -101,10 +101,10 @@
 		996B849B299990A900133037 = {
 			isa = PBXGroup;
 			children = (
+				996B84A5299990A900133037 /* Products */,
 				996B84A6299990A900133037 /* Wordle */,
 				996B84BD299990AA00133037 /* WordleTests */,
 				996B84C7299990AA00133037 /* WordleUITests */,
-				996B84A5299990A900133037 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
