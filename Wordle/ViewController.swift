@@ -46,7 +46,7 @@ class ViewController: UIViewController,
     // Tip 2: You'll want to use and implement `resetBoardWithCurrentSettings` inside of BoardController.swift
     // in the function that you fire when the button is tapped
       
-  
+  //
       let leftBarButtonItem = UIBarButtonItem(title:"Reset",
                                               style: .plain,
                                               target: self,
