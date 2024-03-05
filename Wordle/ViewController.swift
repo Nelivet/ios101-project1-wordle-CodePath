@@ -3,7 +3,7 @@
 //  Wordle
 //
 //  Created by Mari Batilando on 2/12/23.
-// //
+//
 
 import UIKit
 
@@ -54,7 +54,7 @@ class ViewController: UIViewController,
       navigationItem.leftBarButtonItem = leftBarButtonItem
       
  
-    // END YOUR CODE HERE
+    // END YOUR 
   }
     @objc private func didTapResetButton() {
         boardController.resetBoardWithCurrentSettings()
