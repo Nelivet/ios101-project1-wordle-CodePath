@@ -81,7 +81,7 @@ The following **additional** features are implemented:
 - improve the interface to make it more friendly and add a login
 ## Video Walkthrough
 
-https://www.loom.com/share/851b890f88904462acf28054c377e6ad?sid=09836959-fd50-4978-a32e-8862af7fb274
+https://www.loom.com/share/9f47b8a8a6964dfd9ef98caa319f51e0?sid=7e9d8a1c-44fa-45f9-afc1-8dd8b9b62c33
 
 
 ## Notes
